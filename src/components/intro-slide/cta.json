@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_intro_slide_ctas",
+  "info": {
+    "displayName": "cta",
+    "icon": "anchor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "path": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

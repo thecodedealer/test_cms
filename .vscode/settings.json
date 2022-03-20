@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "91.244.247.3",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ngenious",
+            "database": "ngenious_strapi_test",
+            "username": "ngenious_test2",
+            "password": "PWBY.s$U8)U5",
+            "connectionTimeout": 100000
+        }
+    ]
+}

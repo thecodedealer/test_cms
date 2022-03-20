@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_employees_employees_s",
+  "info": {
+    "displayName": "employees ",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
