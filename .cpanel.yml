@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ngenious/node_apps
+    - /bin/cp -R build $DEPLOYPATH
+    - /bin/cp test.html $DEPLOYPATH
