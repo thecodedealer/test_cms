@@ -4,7 +4,7 @@
   "info": {
     "singularName": "intro",
     "pluralName": "intros",
-    "displayName": "intro",
+    "displayName": "Intro",
     "description": ""
   },
   "options": {
@@ -36,6 +36,17 @@
       "type": "string",
       "required": true,
       "unique": true
+    },
+    "social": {
+      "displayName": "social",
+      "type": "component",
+      "repeatable": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "intro-slide.social"
     }
   }
 }

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_features_features",
+  "info": {
+    "displayName": "Item",
+    "icon": "apple-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string"
+    }
+  }
+}

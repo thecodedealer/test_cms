@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "Footer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "addressTitle": {
+      "type": "string"
+    },
+    "addressContent": {
+      "type": "string"
+    },
+    "emailTitle": {
+      "type": "string"
+    },
+    "emailContent": {
+      "type": "string"
+    },
+    "callUsTitle": {
+      "type": "string"
+    },
+    "callUsContent": {
+      "type": "string"
+    }
+  }
+}

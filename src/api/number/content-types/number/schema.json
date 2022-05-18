@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "numbers",
+  "info": {
+    "singularName": "number",
+    "pluralName": "numbers",
+    "displayName": "Numbers",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "items": {
+      "displayName": "Item",
+      "type": "component",
+      "repeatable": true,
+      "component": "numbers.item"
+    },
+    "title": {
+      "type": "string"
+    },
+    "smallTitle": {
+      "type": "string"
+    }
+  }
+}
